@@ -7,13 +7,14 @@
 }
 
 .container .sidebar {
-	background: #aaa;
+	background: #051937 ;
 	display: none;
 	margin-right: 10px;
 }
 .container .sidebar li {
 	padding: 20px;
 	font-size: 20px;
+	color: #fff;
 }
 .content p {
 	font-size: 20px;
